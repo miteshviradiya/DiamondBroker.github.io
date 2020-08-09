@@ -1,4 +1,4 @@
-# DiamondBroker.github.io
+# DiamondBroker
 Diamond Broker Privacy Policy
 **Privacy Policy**
 
